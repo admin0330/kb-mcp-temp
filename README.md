@@ -37,7 +37,7 @@ A portable, mount-tolerant Model Context Protocol (MCP) server for personal know
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/<YOUR_GITHUB_USERNAME>/kb-mcp.git",
+        "git+https://github.com/admin0330/kb-mcp.git",
         "kb-mcp"
       ],
       "env": {
@@ -66,7 +66,7 @@ A portable, mount-tolerant Model Context Protocol (MCP) server for personal know
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/kb-mcp.git
+git clone https://github.com/admin0330/kb-mcp.git
 cd kb-mcp
 
 # 2. 一键配置环境 (自动通过 uv 安装 Python 3.11 独立虚拟环境)
